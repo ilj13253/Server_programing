@@ -1,0 +1,7 @@
+C:\Users\Илья\source\repos\ConsoleApp80\bin\Debug\ConsoleApp80.exe.config
+C:\Users\Илья\source\repos\ConsoleApp80\bin\Debug\ConsoleApp80.exe
+C:\Users\Илья\source\repos\ConsoleApp80\bin\Debug\ConsoleApp80.pdb
+C:\Users\Илья\source\repos\ConsoleApp80\obj\Debug\ConsoleApp80.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\ConsoleApp80\obj\Debug\ConsoleApp80.exe
+C:\Users\Илья\source\repos\ConsoleApp80\obj\Debug\ConsoleApp80.pdb
+C:\Users\Илья\source\repos\ConsoleApp80\obj\Debug\ConsoleApp80.csproj.AssemblyReference.cache

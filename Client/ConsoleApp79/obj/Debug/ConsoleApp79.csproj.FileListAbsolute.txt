@@ -1,0 +1,6 @@
+C:\Users\Илья\source\repos\ConsoleApp79\bin\Debug\ConsoleApp79.exe.config
+C:\Users\Илья\source\repos\ConsoleApp79\bin\Debug\ConsoleApp79.exe
+C:\Users\Илья\source\repos\ConsoleApp79\bin\Debug\ConsoleApp79.pdb
+C:\Users\Илья\source\repos\ConsoleApp79\obj\Debug\ConsoleApp79.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\ConsoleApp79\obj\Debug\ConsoleApp79.exe
+C:\Users\Илья\source\repos\ConsoleApp79\obj\Debug\ConsoleApp79.pdb
